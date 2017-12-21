@@ -676,6 +676,7 @@
 # 
 # https://w3id.org/def/HXA#工具
 <https://w3id.org/def/HXA#\u5DE5\u5177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/def/HXA#\u5DE5\u5177> <http://www.w3.org/2000/01/rdf-schema#label> "\u5DE5\u5177" .
 # 
 # https://w3id.org/def/HXA#工藝
 <https://w3id.org/def/HXA#\u5DE5\u85DD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -687,6 +688,7 @@
 # 
 # https://w3id.org/def/HXA#斗栱元件
 <https://w3id.org/def/HXA#\u6597\u6831\u5143\u4EF6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/def/HXA#\u6597\u6831\u5143\u4EF6> <http://www.w3.org/2000/01/rdf-schema#label> "\u6597\u6831\u5143\u4EF6" .
 # 
 # https://w3id.org/def/HXA#斗栱元件類型代碼
 <https://w3id.org/def/HXA#\u6597\u6831\u5143\u4EF6\u985E\u578B\u4EE3\u78BC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .

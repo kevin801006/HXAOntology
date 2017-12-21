@@ -754,8 +754,9 @@ Center for Cultural Sites Rehabilitation and Development"""^^xsd:string ;
 
 
 ###  https://w3id.org/def/HXA#工具
-:工具 rdf:type owl:Class .
+:工具 rdf:type owl:Class ;
     rdfs:label "工具"^^xsd:string .
+
 
 ###  https://w3id.org/def/HXA#工藝
 :工藝 rdf:type owl:Class ;
@@ -768,8 +769,9 @@ Center for Cultural Sites Rehabilitation and Development"""^^xsd:string ;
 
 
 ###  https://w3id.org/def/HXA#斗栱元件
-:斗栱元件 rdf:type owl:Class .
-    rdfs:label "斗栱元件"^^xsd:string .
+:斗栱元件 rdf:type owl:Class ;
+      rdfs:label "斗栱元件"^^xsd:string .
+
 
 ###  https://w3id.org/def/HXA#斗栱元件類型代碼
 :斗栱元件類型代碼 rdf:type owl:Class ;
