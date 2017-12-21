@@ -1136,7 +1136,8 @@ Center for Cultural Sites Rehabilitation and Development</terms:contributor>
 
 
     <owl:Class rdf:about="https://w3id.org/def/HXA#工具"/>
-    
+        <rdfs:subClassOf rdf:resource="https://w3id.org/def/HXA#工具"/>
+    </owl:Class>
 
 
     <!-- https://w3id.org/def/HXA#工藝 -->
@@ -1161,7 +1162,8 @@ Center for Cultural Sites Rehabilitation and Development</terms:contributor>
 
 
     <owl:Class rdf:about="https://w3id.org/def/HXA#斗栱元件"/>
-    
+            <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">斗栱元件</rdfs:label>
+    </owl:Class>
 
 
     <!-- https://w3id.org/def/HXA#斗栱元件類型代碼 -->
